@@ -1,61 +1,61 @@
-<!-- ===== PROFILE HEADER ===== -->
 <div align="center">
+
+  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/ritika-004a59305/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ritika-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=codedbyritika&style=flat&color=0A66C2" />
+  <!-- Profile Views -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=codedbyritika&style=flat-square&color=blue" alt="profile views"/>
 
   <h1>
     Hi, I’m Ritika 👋
   </h1>
 
-  <p>
-    Pre-Final Year Undergraduate Student | Tech Enthusiast
-  </p>
 </div>
 
-<!-- ===== HERO GIF ===== -->
-<img align="right" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="coding gif"/>
+---
 
-<!-- ===== ABOUT ME ===== -->
-### 👩‍💻 About Me
+<img align="right" width="260" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave gif"/>
 
-- 🎓 Pre-Final Year Undergraduate Student  
-- 💡 Strong interest in **Web Development**  
-- 🧠 Currently improving **Data Structures & Algorithms using Java**  
-- 🤝 Open to collaborative learning and development projects  
+🎓 **Pre-Final Year Undergraduate Student**  
+💻 **Interested in Web Development**  
+🌱 **Currently strengthening problem-solving skills through Data Structures & Algorithms in Java**  
+🤝 **Open to collaboration on Web Development and Data-driven projects**
 
 ---
 
-<!-- ===== SKILLS ===== -->
-### 🧰 Tech Stack
+## 🛠️ Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,java,github" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-<!-- ===== STATS ===== -->
-### 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyritika&theme=radical&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyritika&show_icons=true&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyritika&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyritika&layout=compact&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=codedbyritika&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyritika&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-<!-- ===== FOOTER ===== -->
-<div align="center">
-  <p>
-    🌱 Learning consistently • Building gradually • Improving daily
-  </p>
-</div>
+### 🔗 Connect with Me
+- 💼 **LinkedIn:** [Ritika ](https://www.linkedin.com/in/ritika-004a59305/)
