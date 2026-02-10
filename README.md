@@ -1,5 +1,10 @@
 <img align="right" alt="Coding" width="300"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritika-004a59305/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 # Hi There 👋 I'm Ritika  
 
@@ -38,11 +43,3 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/ritika-004a59305?
-
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=codedbyritika&color=blue)
