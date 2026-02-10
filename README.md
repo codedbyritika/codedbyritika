@@ -5,30 +5,29 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ritika-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <!-- Profile Views -->
   <br><br>
+
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=codedbyritika&style=flat-square&color=blue" alt="profile views"/>
 
-  <h1>
-    Hi, I’m Ritika 👋
-  </h1>
+  <h1>Hi, I’m Ritika 👋</h1>
 
 </div>
 
----
-
-<img align="right" width="260" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave gif"/>
+<img align="right" width="240"
+src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+alt="wave"/>
 
 🎓 **Pre-Final Year Undergraduate Student**  
 💻 **Interested in Web Development**  
-🌱 **Currently strengthening problem-solving skills through Data Structures & Algorithms in Java**  
-🤝 **Open to collaboration on Web Development and Data-driven projects**
+🌱 **Currently strengthening problem-solving skills with DSA in Java**  
+🤝 **Open to collaboration on Web & Data-driven projects**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -44,15 +43,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyritika&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyritika&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codedbyritika&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=codedbyritika&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyritika&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyritika&layout=compact&theme=radical" />
 </p>
 
 ---
