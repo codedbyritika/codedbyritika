@@ -54,6 +54,10 @@ alt="wave"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyritika&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app" />
+</p>
+
 ---
 
 ### 🔗 Connect with Me
